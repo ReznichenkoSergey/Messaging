@@ -1,0 +1,9 @@
+D:\EducationTests\03.Messaging\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\EducationTests\03.Messaging\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\EducationTests\03.Messaging\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\EducationTests\03.Messaging\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+D:\EducationTests\03.Messaging\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\EducationTests\03.Messaging\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\EducationTests\03.Messaging\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\EducationTests\03.Messaging\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\EducationTests\03.Messaging\Models\obj\Debug\netcoreapp3.1\Models.pdb
